@@ -1,4 +1,4 @@
-# CICAIdemo
+# Space Brain: An AI Autonomous Spatial Decision System
 video demo page for CICAI '23 submission
 
 
